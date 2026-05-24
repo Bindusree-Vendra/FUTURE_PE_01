@@ -1,25 +1,25 @@
 # FUTURE_PE_01
 AI-powered website copy generation system for local businesses using Prompt Engineering and AI tools
-# AI Website Copy Generator for Local Businesses
+# Local CopyCraft – AI Website Copy Generator for Local Businesses
 
 ## 📌 Project Overview
-This project uses Prompt Engineering and AI to generate high-quality, conversion-focused website copy for local businesses such as salons, cafes, clinics, and coaching centers.
+Local CopyCraft is an AI-powered prompt engineering system designed to generate high-quality, conversion-focused website copy for local businesses such as salons, cafés, clinics, and coaching centers.
 
-The goal is to help small businesses improve their online presence through clear messaging, strong value propositions, and persuasive calls-to-action.
+This project focuses on creating clear, engaging, and persuasive website content that improves customer engagement and bookings.
 
 ---
 
 ## 🧠 Business Chosen
-GlowUp Salon – Bangalore (Local Salon Business)
+GlowUp Salon – Local Beauty & Hair Care Business
 
 ---
 
 ## 🎯 Problem Statement
-Many local businesses struggle with:
-- Weak or unclear website messaging
-- Poor customer engagement
-- Low conversion from website visitors
-- Lack of professional copywriting
+Most salon businesses struggle with:
+- Weak website messaging
+- Low customer engagement online
+- Poor service clarity
+- Low booking conversions
 
 This project solves these issues using structured AI prompts.
 
@@ -29,27 +29,27 @@ This project solves these issues using structured AI prompts.
 - ChatGPT
 - Claude (optional)
 - Gemini (optional)
-- Lovable (for website generation)
+- Lovable (for website design)
 
 ---
 
 ## ✨ What I Built
-Using prompt engineering, I generated:
+Using prompt engineering, I created:
 
 - Homepage website copy
 - Services page content
 - CTA (Call-To-Action) sections
-- Conversion-focused marketing content
+- Reusable prompt system for salon websites
 
 ---
 
 ## 📊 Output Type
-The generated content is structured for real-world use in business websites and landing pages.
+Conversion-focused website copy ready for real-world salon websites.
 
 ---
 
 ## 🚀 Outcome
-This project demonstrates how AI can replace expensive copywriting services and help small businesses create professional website content quickly.
+This project demonstrates how AI can replace traditional copywriting and help salons generate professional website content instantly.
 
 ---
 
